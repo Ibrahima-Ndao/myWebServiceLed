@@ -184,6 +184,42 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": {},
+      "commentaire": {},
+      "id": 21
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": {},
+      "commentaire": {},
+      "id": 22
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": {},
+      "commentaire": {},
+      "id": 23
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Ibrahima",
+      "commentaire": "j'aime cette lampe",
+      "id": 24
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "Ibrahima",
+      "commentaire": "j'aime cette lampe",
+      "id": 25
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Ibrahima",
+      "commentaire": "j'aime cette lampe",
+      "id": 26
     }
   ]
 }
